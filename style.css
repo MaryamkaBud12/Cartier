@@ -1,0 +1,87 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px 0 20px 0;
+    background-color: #f2f2f2;
+    padding: 20px 0 20px 0;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 0 20px 0;
+    font-size: 20px;
+}
+.name{
+ text-align: center;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 25px;
+}
+.cartier{
+    width: 300px;
+}
+.amidura{
+    text-align: center;
+}
+.photo1{
+    width: 500px;
+}
+.photo2{
+    width: 500px;
+}
+.photo3{
+    width: 500px;
+}
+.photo4{
+    width: 500px;
+}
+.photo5{
+    width: 500px;
+}
+.photo6{
+    width: 500px;
+}
+.text1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.text3{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text4{
+    font-family: 'Times New Roman', Times, serif;
+}
+.text5{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text6{
+    font-family: 'Times New Roman', Times, serif;
+}
+.text7{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text8{
+    font-family: 'Times New Roman', Times, serif;
+}
+.text9{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text10{
+    font-family: 'Times New Roman', Times, serif;
+}
+.text11{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text12{
+    font-family: 'Times New Roman', Times, serif;
+}
